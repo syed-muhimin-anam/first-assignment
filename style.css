@@ -127,7 +127,7 @@ text-decoration: none;
 margin-left: 130px;
 margin-top: 50px;
 color: black;
-font-weight: ;
+
 background-color: rgba(255, 255, 0, 0.897);
 padding: 20px 20px;
 border-radius: 7px;
@@ -167,4 +167,36 @@ border-radius: 7px;
     color: orange;
     font-size: 40px;
     text-align: center;
+}
+.box a{
+    text-decoration: none;
+    color:black;
+     background-color: orange;
+font-weight: bold;
+padding: 5px 10px;
+border: none;
+border-radius: 5px;
+margin-top: 20px;
+}
+
+
+
+
+#finish{
+    text-align: center;
+    margin-top: 60px;
+
+}
+
+.icon{
+    width: 40px;
+    height: 40px;
+    float: left;
+    margin-left: 5px;
+}
+.icon img{
+    width: 100%;
+}
+#placement{
+    margin-left: 610px;
 }
