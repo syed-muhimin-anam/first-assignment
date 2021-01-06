@@ -170,8 +170,8 @@ border-radius: 7px;
 }
 .box a{
     text-decoration: none;
-    color:black;
-     background-color: orange;
+    color: rgba(255, 255, 255, 0.931);
+     background-color:rgba(0, 0, 0, 0.829);
 font-weight: bold;
 padding: 5px 10px;
 border: none;
