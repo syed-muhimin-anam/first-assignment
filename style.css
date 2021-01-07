@@ -104,7 +104,7 @@ ul {
     text-align: center;
     height: 350px;
     float: left;
-    background-color: rgba(0, 0, 0, 0.726);
+    background-color: rgba(0, 0, 0, 0.787);
     color: white;
     border-radius: 15px;
 }
@@ -166,7 +166,7 @@ border-radius: 7px;
 /* fifth sec start******************************************/
 
 #last{
-    background-color: rgba(0, 0, 0, 0.657); 
+    background-color: rgba(0, 0, 0, 0.561); 
     height:370px;
     width: 100%;
 }
