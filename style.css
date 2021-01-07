@@ -49,8 +49,9 @@ body{
 .secoend-section p{
     font-size: 23px;
 }
-.secoend-section button{
+.secoend-section a{
     background-color: rgba(255, 68, 0, 0.801);
+    text-decoration: none;
     border: none;
     color:white;
     font-size:20px ; padding: 13px 30px;
@@ -58,13 +59,13 @@ body{
     margin-top: 30px;
 }
 
-/* secoend sec start******************************************/
+/* third sec start******************************************/
 
 .third-sec{
     width: 100%;
-    height: 500px;
+    height: 530px;
     text-align: center;
-    background-color: rgba(255, 255, 0, 0.445);
+    background-color: rgba(255, 255, 0, 0.383);
 }
 #working-pro{
     color: blue;
@@ -126,9 +127,9 @@ body{
 text-decoration: none;
 margin-left: 130px;
 margin-top: 50px;
-color: black;
+color: white;
 
-background-color: rgba(255, 255, 0, 0.897);
+background-color: rgba(255, 68, 0, 0.911);
 padding: 20px 20px;
 border-radius: 7px;
 
@@ -138,10 +139,10 @@ border-radius: 7px;
     color: whitesmoke;
     font-weight: bold;
     
-}/* fourth sec start******************************************/
+}/* fifth sec start******************************************/
 
 #last{
-    background-color: rgba(0, 0, 0, 0.644); 
+    background-color: rgba(0, 0, 0, 0.719); 
     height:370px;
 }
 .box{
@@ -155,17 +156,18 @@ border-radius: 7px;
     float: left;
     text-align: center;
     border-radius: 10px;
-    box-shadow: 10px 10px  30px white;
+    box-shadow: 10px 10px  50px white;
     border-left: 7px solid;
     border-image: linear-gradient(180deg, blue, cyan);
     border-image-slice: 1;
 }
+
 #move{
     margin-left: 100px;
 }
 #serve{
-    color: orange;
-    font-size: 40px;
+    color: rgba(255, 68, 0, 0.918);
+    font-size: 50px;
     text-align: center;
 }
 .box a{
@@ -179,13 +181,19 @@ border-radius: 5px;
 margin-top: 20px;
 }
 
+.box h1{
+     color: blue;
+}
 
-
-
+/* sixth sec start******************************************/
 #finish{
     text-align: center;
     margin-top: 60px;
-
+}
+#finish h2{
+    color: rgb(88, 84, 84);
+}#finish h1{
+    font-size: 27px;
 }
 
 .icon{
