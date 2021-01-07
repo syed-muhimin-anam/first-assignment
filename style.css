@@ -3,6 +3,32 @@ body{
     margin: 0;
     font-family: 'Zilla Slab', serif;
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+      font-size: 20px;
+      font-weight: bold;
+    display: block;
+    color: orange;
+    text-align: center;
+    padding-left:26px;
+    padding-right: 30px;
+    margin-top:20px ;
+    margin-bottom: 50px;
+    text-decoration: none;
+  }
+  
+
 .fast-sec{
       width: 100%;
     overflow: hidden;
@@ -65,7 +91,7 @@ body{
     width: 100%;
     height: 530px;
     text-align: center;
-    background-color: rgba(255, 255, 0, 0.383);
+    background-color: rgba(255, 255, 0, 0.294);
 }
 #working-pro{
     color: blue;
@@ -140,7 +166,7 @@ border-radius: 7px;
 /* fifth sec start******************************************/
 
 #last{
-    background-color: rgba(0, 0, 0, 0.719); 
+    background-color: rgba(0, 0, 0, 0.657); 
     height:370px;
     width: 100%;
 }
