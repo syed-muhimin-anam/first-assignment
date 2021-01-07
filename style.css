@@ -27,7 +27,6 @@ body{
     padding: 13px 30px;
     border-radius: 7px; 
     text-decoration: none;
-
 }
 .fast-sec img{
     width: 80%;
@@ -39,9 +38,8 @@ body{
     overflow: hidden;
 }
 .secoend-section img{
-     width: 84%; }
-
-
+     width: 84%; 
+}
 .secoend-section h1{
     color: orangered;
     font-size: 40px;
@@ -71,7 +69,6 @@ body{
     color: blue;
     font-size: 45px;
 }
-
 .third-div{
     width: 25%;
     margin-left: 1.5%;
@@ -108,7 +105,6 @@ body{
     background-size: 100%;
     background-repeat: no-repeat;
 }
-
 .fourth-half{
     font-size: 20px;
    width: 35%;
@@ -128,11 +124,9 @@ text-decoration: none;
 margin-left: 130px;
 margin-top: 50px;
 color: white;
-
 background-color: rgba(255, 68, 0, 0.911);
 padding: 20px 20px;
 border-radius: 7px;
-
 }
 .fourth-half span{
     font-size: 45px;
@@ -180,15 +174,14 @@ border: none;
 border-radius: 5px;
 margin-top: 20px;
 }
-
 .box h1{
-     color: blue;
+ color: blue;
 }
 
 /* sixth sec start******************************************/
 #finish{
-    text-align: center;
-    margin-top: 60px;
+ text-align: center;
+ margin-top: 60px;
 }
 #finish h2{
     color: rgb(88, 84, 84);
